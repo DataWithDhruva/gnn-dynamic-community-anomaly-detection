@@ -85,5 +85,5 @@ This repository is maintained as an academic record of the project and contains 
 
 This repository is intended for **academic and educational purposes**.
 
-<img width="855" height="482" alt="{43C11CD9-5A1B-45E1-833E-1A9E246C1F17}" src="https://github.com/user-attachments/assets/974d573f-5b41-42a4-a229-647fcf90d3b3" />
+<img width="686" height="490" alt="{2A3029E3-35FB-4266-BA24-F3EBA122D410}" src="https://github.com/user-attachments/assets/4f3bc7a9-57a3-4d32-88c1-f9ed0dbee103" />
 
